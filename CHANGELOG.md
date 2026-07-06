@@ -1,9 +1,5 @@
-# Changelog
-
-## 0.5.0-sprint1
-- Architecture unique
-- SQLite stable
-- Création de Run
-- Génération 90 jours
-- Dashboard Aujourd’hui
-- Calendrier connecté
+## 0.5.0-sprint2
+- Ajout tâches SQLite
+- Ajout domaines / valeur / urgence / durée estimée
+- Prochaine action à fort impact
+- Dashboard connecté

@@ -1,9 +1,8 @@
-# Momentum - Sprint 1
+# Momentum - Sprint 2
 
-Installation:
 ```bash
 pip install -r requirements.txt
 python app.py
 ```
 
-Inclus : PySide6, SQLite, navigation, création de Run, génération 90 jours, écran Aujourd’hui, calendrier connecté.
+Sprint 2 : projet complet unique avec Runs + Calendrier + Tâches SQLite.
