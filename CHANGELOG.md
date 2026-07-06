@@ -1,5 +1,10 @@
-## 0.5.0-sprint2
-- Ajout tâches SQLite
-- Ajout domaines / valeur / urgence / durée estimée
-- Prochaine action à fort impact
-- Dashboard connecté
+# Changelog
+
+## 0.5.0-sprint3
+
+- Ajout DayEditor
+- Modification des journées
+- Statuts de journée
+- Heures prévues / réalisées
+- Notes
+- Statistiques du Run
