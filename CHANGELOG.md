@@ -1,10 +1,9 @@
 # Changelog
 
-## 0.5.0-sprint3
+## 0.5.0-sprint4
 
-- Ajout DayEditor
-- Modification des journées
-- Statuts de journée
-- Heures prévues / réalisées
-- Notes
-- Statistiques du Run
+- Ajout bibliothèque métier CGP
+- Ajout modèles de tâches
+- Ajout écran Bibliothèque
+- Ajout tâche depuis modèle
+- Création de modèles personnalisés

@@ -1,4 +1,4 @@
-# Momentum - Sprint 3
+# Momentum - Sprint 4
 
 ## Lancement
 
@@ -7,13 +7,15 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## Sprint 3
+## Sprint 4
 
 Ajout :
-- édition d'une journée
-- statut : non renseignée, validée, échec, pause
-- heures prévues
-- heures réalisées
-- notes
-- calendrier connecté aux statuts
-- statistiques simples du Run
+- bibliothèque métier CGP prédéfinie
+- table `task_templates`
+- écran Bibliothèque
+- ajout d'une tâche depuis un modèle prédéfini
+- création de modèles personnalisés
+- écran Tâches connecté à la bibliothèque
+
+Important :
+si tu as déjà une ancienne base `data/momentum.db`, supprime-la pour repartir proprement sur Sprint 4.
