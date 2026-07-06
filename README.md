@@ -1,4 +1,4 @@
-# Momentum - Sprint 4
+# Momentum - 1.0.2 Sprint 5
 
 ## Lancement
 
@@ -7,15 +7,17 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## Sprint 4
+## Ajout Sprint 5
 
-Ajout :
-- bibliothèque métier CGP prédéfinie
-- table `task_templates`
-- écran Bibliothèque
-- ajout d'une tâche depuis un modèle prédéfini
-- création de modèles personnalisés
-- écran Tâches connecté à la bibliothèque
+- Écran Focus
+- Sélection d’une tâche en cours
+- Chronomètre
+- Pause / reprise
+- Terminer la session
+- Enregistrement dans SQLite
+- Mise à jour des heures réalisées du jour
+- Tâche marquée terminée si validation
 
-Important :
-si tu as déjà une ancienne base `data/momentum.db`, supprime-la pour repartir proprement sur Sprint 4.
+## Notes
+
+Cette version est construite à partir du ZIP 1.0.1 fourni.
